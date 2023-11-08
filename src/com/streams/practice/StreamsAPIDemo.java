@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 public class StreamsAPIDemo {
@@ -290,5 +291,14 @@ public class StreamsAPIDemo {
 		
 		System.out.println("xx");
 		employeeList.stream().filter(emp -> emp.getGender().equals("Female")).sorted((e1,e2) -> e1.getAge()-e2.getAge()).collect(Collectors.toList()).forEach(System.out::println);;
+		
+		System.out.println();
+		
+		
+		System.out.println("\n*********************Query 16 : Print the Max Salary Employees from each Deaprtment? ");
+		Map<String, Employee> collect2 = employeeList.stream().collect(Collectors.groupingBy(Employee::getDepartment,Collectors.collectingAndThen( Collectors.maxBy(Comparator.comparingDouble(Employee::getSalary)),Optional::get)));
+//		System.out.println(collect2);
+		for(Map.Entry<String, Employee> e : collect2.entrySet())
+			System.out.println(e.getKey() + " 	:::::: " + e.getValue().getName() + " " +e.getValue().getSalary());
 	}
 }
