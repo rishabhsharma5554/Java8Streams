@@ -1,0 +1,14 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 9b66513bdff024459bbab72885854ceah
+e	java:S106"+Replace this use of System.out by a logger.8ÖüÀñ∆1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8Ä®‘ñ∆1b bb1c3f2ea781263d3a2bb92b06a2061fh
+o
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.8”‘ñ∆1b 14466d6b4e392d8c4a05833c5900ee56h
+r
+java:S1854"7Remove this useless assignment to local variable "odd".8çﬁﬁñ∆1b 61d19612c44432ad715f28635f1dfc4ah
+s
+java:S1854"8Remove this useless assignment to local variable "even".8çﬁﬁñ∆1b da3141e3c4ee812f6c24d500dae9a956h
+d
+java:S1481")Remove this unused "even" local variable.8çﬁﬁñ∆1b cc935c5faf4c8f7a0468d7552a9b8138h
+c
+java:S1481"(Remove this unused "odd" local variable.8çﬁﬁñ∆1b a2b6f2a6066ed8700d83335fc50a2b8eh

@@ -1,0 +1,56 @@
+package com.designpatterns.singleton;
+class DBConn4
+{
+	//step 1 create static object
+	//step 2 Create private Constructor
+	//step 3 create static method which will return object
+			
+	// ***Synchronized getObject Methods
+	// What happens if 2 thread call is at same instance of time
+	// Solution : make getInstance method synchronized
+
+	// **** Instead of creating synxhronized method 
+	// we can make synchronized Block (Double Checking Next Code)
+	
+	//Problem : Slow
+	static DBConn4 obj;
+	private DBConn4()
+	{
+		System.out.println("Instance created."+Thread.currentThread().getName());
+	}
+	
+	public static synchronized DBConn4 getInstance()
+	{
+		if(obj == null)
+			synchronized(DBConn4.class) 
+			{
+				if(obj==null)
+					obj = new DBConn4();
+			}
+		return obj;
+	}
+}
+public class Singleton_Basic_4_Two_Thread_Issue_Synchronized_Block {
+
+	public static void main(String[] args) {
+		Thread t1 = new Thread( () -> {
+			DBConn4 obj1 = DBConn4.getInstance();
+		});
+		
+		
+		Thread t2 = new Thread(() -> 
+		{
+			DBConn4 obj2 = DBConn4.getInstance();
+		});
+		
+		
+		t1.start();
+		//you can also delay 
+		//try { Thread.sleep(10);} catch(Exception ex) {System.out.println(ex.getMessage());}
+		
+		
+		// But why to waste time
+		t2.start();
+	}
+
+}

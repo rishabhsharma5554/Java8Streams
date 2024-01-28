@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.placement.company.Cognizent.code.Base"/>
+    <fullyQualifiedTypeName name="com.placement.company.Cognizent.code.Derived"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.designpatterns.singleton.DBConn"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.designpatterns.singleton.DBConn3"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.designpatterns.singleton.DBConn4"/>
+    <fullyQualifiedTypeName name="com.designpatterns.singleton.DBConn5"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="com.streams.practice.Employee"/>
+    <fullyQualifiedTypeName name="com.java8.reflectionAPI.Person"/>
+    <fullyQualifiedTypeName name="com.rishabh.clonning.NetworkConnection"/>
+    <fullyQualifiedTypeName name="com.rishabh.clonning.Abc"/>
+    <fullyQualifiedTypeName name="com.rishabh.clonning.Abc1"/>
+    <fullyQualifiedTypeName name="com.rishabh.clonning.Person"/>
+    <fullyQualifiedTypeName name="com.rishabh.clonning.Demo"/>
+    <fullyQualifiedTypeName name="com.rishabh.clonning.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+    <fullyQualifiedTypeName name="com.rishabh.clonning.Demo2"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="com.rishabh.equals.hashcode.MyClass"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

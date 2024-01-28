@@ -1,0 +1,71 @@
+
+ç
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").b f5191e08c1c5861e6b48d9da8413b2e5h
+à
+java:S1192"TDefine a constant instead of duplicating this literal "Sales And Marketing" 4 times.b 8645ef8d30ef90ae3ccef87c32dac676h
+É
+java:S1192"ODefine a constant instead of duplicating this literal "Infrastructure" 3 times.b 1e5374c2187aadf32f92806a018e071ch
+{
+java:S1192"GDefine a constant instead of duplicating this literal "Female" 9 times.b fd804159c9334779af1cc3989ed22ef1h
+à
+java:S1192"TDefine a constant instead of duplicating this literal "Product Development" 6 times.b ec8482d42c95d5b4628bcc5d09332d9fh
+^	java:S106""+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+o	java:S125 "<This block of commented-out lines of code should be removed.b 1516a81b91aacbac75566ea39742295ah
+^	java:S106:"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106d"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Å"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106©"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¬"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106»"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106⁄"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106‹"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ó"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ò"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106˚"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+á
+java:S6204œ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'b f31c9542f92d797a57d6f9bafca179cdh
+_	java:S106˛"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106á"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+o
+java:S6213∆":Rename this variable to not match a restricted identifier.b b2145aac704ce76dbe1ac7adac535b23h
+_	java:S106â"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ì"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ï"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106û"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¢"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106•"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¨"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Æ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106≥"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106™"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106´"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106≈"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106«"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106≤"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ã"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106À"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Œ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106œ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106—"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106‘"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106ÿ"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+Q
+java:S1116œ"Remove this empty statement.b 9eecb7db59d16c80417c72d1e1f4fbf1h
+p	java:S125÷"<This block of commented-out lines of code should be removed.b 3045c1dc83df99e302f8f48f65369725h
+o
+java:S2479ÿ":Remove the non-escaped \u0009 character from this literal.b 25948d2d46f3e2d125ac4a7eb541f926h
+v	java:S125#"<This block of commented-out lines of code should be removed.8´£•î∆1b e25488798455138d15283887c1a3e73dh
+v	java:S125H"<This block of commented-out lines of code should be removed.8≤‡Éï∆1b b95a0607f51cd81cf34d5c8328bdfeffh
+v	java:S125g"<This block of commented-out lines of code should be removed.8≤Œ§∫∆1b 59d528bf3cae2b992d3918ebed31a509h
+w	java:S125ñ"<This block of commented-out lines of code should be removed.8®À∆∫∆1b c098d5027b4967f35f3bfb53ca5221bfh
+w	java:S125≤"<This block of commented-out lines of code should be removed.8ˆ‘Œ∫∆1b 1aeaf99b95408016f7fc9625fc80a559h
+å
+java:S3655∆"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.8±ÈÊ≤»1b 5cbc263a13203f9087cb8ece5bc4ebaah
+å
+java:S3655˝"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.8±ÈÊ≤»1b 5a7b695d1f50d0320381d55036fa15a9h
+å
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.8±ÈÊ≤»1b ea1cb04b11f656af219ab62e456ab137h
+f	java:S106›"+Replace this use of System.out by a logger.8¢ãÔ≤»1b bb1c3f2ea781263d3a2bb92b06a2061fh
+é
+java:S6204·"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'8ˆÖ˚≤»1b f31c9542f92d797a57d6f9bafca179cdh
+f	java:S106‚"+Replace this use of System.out by a logger.8Åå¸≤»1b bb1c3f2ea781263d3a2bb92b06a2061fh

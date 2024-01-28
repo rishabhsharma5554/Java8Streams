@@ -1,0 +1,14 @@
+
+€	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.b dfebf06cd5734ee23e07a39ec4635c4bh
+i
+java:S1854"5Remove this useless assignment to local variable "p".b d0eb60754ad5b53893f75959f9c639a5h
+’
+java:S4276
+"^Refactor this code to use the more specialised Functional Interface 'ToIntFunction<Integer[]>'b ec7cc29208245796221641d686764e24h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+’
+java:S4276"^Refactor this code to use the more specialised Functional Interface 'ToIntFunction<Integer[]>'b ec7cc29208245796221641d686764e24h
+‡
+java:S1602"SRemove useless curly braces around statement and then remove useless return keywordb f95b70fdc3088560732a5ac135644506h
+Z
+java:S1481"&Remove this unused "p" local variable.b 83878c91171338902e0fe0fb97a8c47ah

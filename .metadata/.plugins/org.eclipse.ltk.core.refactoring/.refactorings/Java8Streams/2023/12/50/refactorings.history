@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Singleton_Basic_4_Two_Thread_Issue_Synchronized_Block.java&apos; to &apos;Java8Streams/src/com.designpatterns.singleton&apos;&#x0D;&#x0A;- Original project: &apos;Java8Streams&apos;&#x0D;&#x0A;- Destination element: &apos;Java8Streams/src/com.designpatterns.singleton&apos;&#x0D;&#x0A;- Original element: &apos;com.designpatterns.singleton.Singleton_Basic_4_Two_Thread_Issue_Synchronized_Block.java&apos;" description="Copy compilation unit" destination="/src&lt;com.designpatterns.singleton" element1="/src&lt;com.designpatterns.singleton{Singleton_Basic_4_Two_Thread_Issue_Synchronized_Block.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1702536107422" units="1" version="1.0"/>
+</session>

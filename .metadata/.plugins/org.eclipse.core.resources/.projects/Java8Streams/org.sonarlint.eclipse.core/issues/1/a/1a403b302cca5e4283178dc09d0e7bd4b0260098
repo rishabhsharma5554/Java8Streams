@@ -1,0 +1,19 @@
+
+Ä	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.b b20aadf5bdbaeb9c4665cca6f3c79069h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b f3c992050846d448480c8ed707ca2144h
+º
+java:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.8®æ“¿»1b 99ee56581c4fd7844f087d6f0b8d5ae4h
+j
+java:S3740"/Provide the parametrized type for this generic.8ò¸”¿»1b 9bd81329febf6efe22788e03ddeaf0afh
+{
+java:S2133"@Remove this object instantiation and use "Person.class" instead.8ò¸”¿»1b 1246fdb63040c280833216b0c902a640h
+e	java:S106""+Replace this use of System.out by a logger.8ˇ’÷¿»1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106("+Replace this use of System.out by a logger.8€∞Ÿ¿»1b bb1c3f2ea781263d3a2bb92b06a2061fh
+º
+java:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.8ˇ»ﬂ¿»1b 7c78ee338f58ff3153a07ab6c7a6b755h
+º
+java:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.8Éˆ‡¿»1b 703f115be0e587e59b0875cc88608181h
+e	java:S106-"+Replace this use of System.out by a logger.8∏Ñ‰¿»1b bb1c3f2ea781263d3a2bb92b06a2061fh
+}
+java:S2094"BRemove this empty class, write its code or make it an "interface".8¬æÊ¿»1b 7ee79cc29bf6b0bb3ad2a19ed502094eh
+e	java:S106,"+Replace this use of System.out by a logger.8≠åÌ¿»1b bb1c3f2ea781263d3a2bb92b06a2061fh

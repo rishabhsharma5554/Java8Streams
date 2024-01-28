@@ -1,0 +1,14 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 05d1632d1e6146e157c11c9dfea6dcf6h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+n
+java:S2479":Remove the non-escaped \u0009 character from this literal.b 22689e93c1e9bf936a05dde5095ff722h
+`
+java:S1602",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+n
+java:S2479":Remove the non-escaped \u0009 character from this literal.b be49a1f6d7977fd2c7e1ed30f343c5e5h
+`
+java:S1602",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

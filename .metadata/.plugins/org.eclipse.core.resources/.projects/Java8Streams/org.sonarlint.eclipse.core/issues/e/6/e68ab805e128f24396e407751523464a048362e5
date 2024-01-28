@@ -1,0 +1,18 @@
+
+ç
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").b f5191e08c1c5861e6b48d9da8413b2e5h
+à
+java:S1192"TDefine a constant instead of duplicating this literal "Sales And Marketing" 3 times.b 8645ef8d30ef90ae3ccef87c32dac676h
+à
+java:S1192"TDefine a constant instead of duplicating this literal "Product Development" 5 times.b ec8482d42c95d5b4628bcc5d09332d9fh
+É
+java:S1192"ODefine a constant instead of duplicating this literal "Infrastructure" 3 times.b 1e5374c2187aadf32f92806a018e071ch
+{
+java:S1192
+"GDefine a constant instead of duplicating this literal "Female" 6 times.b fd804159c9334779af1cc3989ed22ef1h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 9b66513bdff024459bbab72885854ceah
+Ü
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'b f31c9542f92d797a57d6f9bafca179cdh
+r
+java:S1612">Replace this lambda with method reference 'Employee::getName'.b b4d414045ddc319a7da99472065d3b35h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

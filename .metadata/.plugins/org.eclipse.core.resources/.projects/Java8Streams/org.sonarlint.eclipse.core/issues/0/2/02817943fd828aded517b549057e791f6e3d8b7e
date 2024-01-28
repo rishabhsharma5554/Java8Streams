@@ -1,0 +1,7 @@
+
+€	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.b 124a9fd777c974b2430be6597a9964a3h
+^
+java:S1197"*Move the array designators [] to the type.b f0ff4deb6b15e321119745ccfd082053h
+^
+java:S1197"*Move the array designators [] to the type.b bb26e48aa50b97f5f95de4fb3ded3ca8h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
